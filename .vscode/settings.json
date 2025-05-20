@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "Lista Exercicios 06/3. Simulação de Um Elevador",
+        "Lista Exercicios 06/2. Cálculo de Salário com Bônus",
+        "Lista Exercicios 06/1. Controle de Conta Bancária",
+        "Lista Exercicios 06/4. Validação de Nota de um Aluno/controle",
+        "."
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": []
+}
