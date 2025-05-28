@@ -1,7 +1,7 @@
-package controle;
+package Heranca.Exercicio01.controle;
 
-import dominio.Aluno;
-import dominio.Professor;
+import Heranca.Exercicio01.dominio.Aluno;
+import Heranca.Exercicio01.dominio.Professor;
 
 public class TesteHeranca {
     public static void main(String[] args) {

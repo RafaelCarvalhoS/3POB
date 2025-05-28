@@ -1,7 +1,7 @@
-package controle;
+package Heranca.Exercicio02.controle;
 
-import dominio.Carro;
-import dominio.Moto;
+import Heranca.Exercicio02.dominio.Carro;
+import Heranca.Exercicio02.dominio.Moto;
 
 public class TesteVeiculos {
     public static void main(String[] args) {

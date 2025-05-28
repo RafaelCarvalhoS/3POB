@@ -1,4 +1,4 @@
-package dominio;
+package Heranca.Exercicio02.dominio;
 
 public class Moto extends Veiculo {
     private boolean temPartidaEletrica;

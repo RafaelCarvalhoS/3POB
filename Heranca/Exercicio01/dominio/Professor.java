@@ -1,4 +1,4 @@
-package dominio;
+package Heranca.Exercicio01.dominio;
 
 public class Professor extends Pessoa {
     private double salario;

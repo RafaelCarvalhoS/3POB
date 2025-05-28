@@ -1,4 +1,4 @@
-package dominio;
+package Heranca.Exercicio01.dominio;
 
 public class Pessoa {
     protected String nome;
